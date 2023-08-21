@@ -1,47 +1,40 @@
-.cartImage{
-    height: 200px;
-    width:150px;
-    margin-top: -40px;
+.cartImage {
+  height: 200px;
+  width: 150px;
+  margin-top: -40px;
 }
 
-.qtyBtn{
-    width: 50px;
-        height: 50px;
-        outline-style:initial;
-        border-radius: 100px;
-        cursor: pointer;
-        padding: 10px;
-        margin-right: 10px;
-        margin-left: 10px;
-        background-color: #ee502c;
-        border:none;
-        color:#ffff
-  
-
-  
+.qtyBtn {
+  width: 50px;
+  height: 50px;
+  outline-style: initial;
+  border-radius: 100px;
+  cursor: pointer;
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #ee502c;
+  border: none;
+  color: #ffff;
 }
-.total{
-   align-items: center;
-   margin-top: 40px;
-
-
+.total {
+  align-items: center;
+  margin-top: 40px;
 }
 /* From uiverse.io by @adamgiebl */
 .checkoutbtn {
- position: relative;
- padding: 10px 40px;
- margin: 10px 10px 10px 10px;
- float: left;
- border-radius: 3px;
- font-size: 20px;
- color: #FFF;
- text-decoration: none;
- background-color: #ee502c;
- border: none;
+  position: relative;
+  padding: 10px 40px;
+  margin: 10px 10px 10px 10px;
+  float: left;
+  border-radius: 3px;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ee502c;
+  border: none;
 
- 
- 
- /* transition: all 0.1s; */
+  /* transition: all 0.1s; */
 }
 /* 
 .checkoutbtn:hover, .checkoutbtn:active {

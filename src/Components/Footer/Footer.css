@@ -1,13 +1,20 @@
-.main-footer {
-    color: white;
-    background-color: #dc3545;
-    padding-top: 1em;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-  }
+.footer {
+  color: white;
+  background-color: #f57a50;
+  padding-top: 100px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+}
 
-  /* .myfooter{
+.row {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+/* .myfooter{
     position: fixed;
     height: 100px;
     bottom: 0;
